@@ -1,2 +1,2 @@
-# qablog
-A blog site on Quality Assurance
+# PLD450
+A blog website on Information Security
